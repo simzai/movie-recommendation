@@ -17,6 +17,7 @@ It covers all major recommendation techniques used in real-world systems:
 
 The notebook loads multiple datasets, cleans and merges them, builds feature vectors, calculates similarity, and generates recommendations.
 
+
 1. Rating-Based Recommendation
    
 Uses IMDB-style weighted rating formula:
@@ -34,6 +35,7 @@ C = mean average rating
 
 Returns Top 10 highest-scored movies.
 
+
 2. TRENDING MOVIES (Popularity-Based)
  
 Movie popularity values are:
@@ -43,6 +45,7 @@ Converted to numeric
 Cleaned & processed
 
 Top 10 movies visualized using horizontal bar chart
+
 
 3. CONTENT BASED FILTERING
    
@@ -73,6 +76,7 @@ movies_recommendation(movie_title)
 
 Returns 10 similar movies.
 
+
 4. USER BASED COLLABORATIVE FILTERING
  
 Steps:
@@ -89,6 +93,7 @@ Function:
 
 user_based_recommend(user_id)
 
+
 5. ITEM BASED COLLABORATIVE FILTERING
 
 Steps:
@@ -102,6 +107,7 @@ Steps:
 Function:
 
 item_specific_recommendation(user_id)
+
 
 HOW TO RUN 
 
