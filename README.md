@@ -112,11 +112,8 @@ item_specific_recommendation(user_id)
 HOW TO RUN 
 
 Open Jupyter Notebook or VS Code
-
 Load the .ipynb file
-
 Update dataset paths
-
 Run cells step-by-step
 
 This project successfully builds a multi-level movie recommendation system using both:
