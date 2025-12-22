@@ -136,3 +136,31 @@ Vectorization
 Similarity computation
 
 Recommender system design
+
+
+
+📂 DATASET (Important)
+
+The datasets used in this project are too large to upload to GitHub, so they are NOT included in this repository.
+
+You must manually download them before running the notebook.
+
+Download Links
+
+This project uses datasets from:
+
+🔗 MovieLens Dataset
+
+Small ratings dataset (used in this project):
+https://grouplens.org/datasets/movielens/latest/
+
+🔗 TMDB Datasets
+
+movies_metadata.csv
+
+credits.csv
+
+links.csv
+
+You can download these from:
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
